@@ -1,0 +1,1 @@
+# ajs-TypeScript-New_types
